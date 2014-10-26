@@ -52,6 +52,7 @@ The following files are available for the train and test data. Their description
 
 
 ##Data transformations
+
 1: Read the trainging and test data. Merges both the data sets to create one data set.
 2. Select the features corrsponding to measurements on the mean and standard deviation for each measurement
 3. Select the data based on the mean and sd features.
